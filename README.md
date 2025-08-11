@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amrita2008/leetcode-solution/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/amrita2008/leetcode-solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/amrita2008/leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/amrita2008/leetcode-solution/tree/master/0069-sqrtx) |
 ## Hash Table
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amrita2008/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/amrita2008/leetcode-solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
