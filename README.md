@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/amrita2008/leetcode-solution/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/amrita2008/leetcode-solution/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/amrita2008/leetcode-solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
