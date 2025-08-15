@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amrita2008/leetcode-solution/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/amrita2008/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/amrita2008/leetcode-solution/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/amrita2008/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/amrita2008/leetcode-solution/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/amrita2008/leetcode-solution/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
