@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/amrita2008/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/amrita2008/leetcode-solution/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/amrita2008/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
