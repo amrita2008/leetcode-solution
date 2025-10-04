@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/amrita2008/leetcode-solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/amrita2008/leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/amrita2008/leetcode-solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/amrita2008/leetcode-solution/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amrita2008/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amrita2008/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amrita2008/leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
