@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/amrita2008/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/amrita2008/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/amrita2008/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amrita2008/leetcode-solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/amrita2008/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/amrita2008/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amrita2008/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amrita2008/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/amrita2008/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/amrita2008/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amrita2008/leetcode-solution/tree/master/0242-valid-anagram) |
 ## Union Find
 |  |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amrita2008/leetcode-solution/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
