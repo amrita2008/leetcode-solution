@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/amrita2008/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/amrita2008/leetcode-solution/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/amrita2008/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/amrita2008/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/amrita2008/leetcode-solution/tree/master/0217-contains-duplicate) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amrita2008/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/amrita2008/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
