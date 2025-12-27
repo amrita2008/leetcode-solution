@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amrita2008/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amrita2008/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/amrita2008/leetcode-solution/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/amrita2008/leetcode-solution/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/amrita2008/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/amrita2008/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amrita2008/leetcode-solution/tree/master/0344-reverse-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amrita2008/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/amrita2008/leetcode-solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/amrita2008/leetcode-solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/amrita2008/leetcode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/amrita2008/leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amrita2008/leetcode-solution/tree/master/0070-climbing-stairs) |
 ## Hash Table
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/amrita2008/leetcode-solution/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/amrita2008/leetcode-solution/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/amrita2008/leetcode-solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
