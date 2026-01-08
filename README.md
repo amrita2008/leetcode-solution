@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amrita2008/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/amrita2008/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amrita2008/leetcode-solution/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amrita2008/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amrita2008/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/amrita2008/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/amrita2008/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amrita2008/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/amrita2008/leetcode-solution/tree/master/0049-group-anagrams) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amrita2008/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/amrita2008/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/amrita2008/leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
