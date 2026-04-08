@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/amrita2008/leetcode-solution/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amrita2008/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/amrita2008/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/amrita2008/leetcode-solution/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/amrita2008/leetcode-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amrita2008/leetcode-solution/tree/master/0191-number-of-1-bits) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/amrita2008/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amrita2008/leetcode-solution/tree/master/0067-add-binary) |
 | [0874-walking-robot-simulation](https://github.com/amrita2008/leetcode-solution/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/amrita2008/leetcode-solution/tree/master/2069-walking-robot-simulation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/amrita2008/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Stack
 |  |
 | ------- |
