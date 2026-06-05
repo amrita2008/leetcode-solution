@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/amrita2008/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrita2008/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0551-student-attendance-record-i](https://github.com/amrita2008/leetcode-solution/tree/master/0551-student-attendance-record-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amrita2008/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1678-goal-parser-interpretation](https://github.com/amrita2008/leetcode-solution/tree/master/1678-goal-parser-interpretation) |
 ## Math
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amrita2008/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amrita2008/leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amrita2008/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Union Find
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/amrita2008/leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amrita2008/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrita2008/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
