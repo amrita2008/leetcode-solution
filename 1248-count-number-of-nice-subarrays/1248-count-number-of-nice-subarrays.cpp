@@ -1,17 +1,29 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        int j = 0, odd = 0, count = 0, total = 0;
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] & 1) {
-                odd++;
-                if (odd >= k) {
-                    count = 1;
-                    while (!(nums[j++] & 1)) count++;
-                    total += count;
-                }
-            } else if (odd >= k) total += count;
+
+    int atMost(vector<int>& nums, int k){
+
+        int l = 0;
+        int odd = 0;
+        int ans = 0;
+
+        for(int r=0;r<nums.size();r++){
+
+            odd += nums[r] % 2;
+
+            while(odd > k){
+                odd -= nums[l] % 2;
+                l++;
+            }
+
+            ans += (r - l + 1);
         }
-        return total;
+
+        return ans;
+    }
+
+    int numberOfSubarrays(vector<int>& nums, int k) {
+
+        return atMost(nums,k) - atMost(nums,k-1);
     }
 };
