@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrita2008/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2126-destroying-asteroids](https://github.com/amrita2008/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/amrita2008/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/amrita2008/leetcode-solution/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/amrita2008/leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/amrita2008/leetcode-solution/tree/master/0846-hand-of-straights) |
 | [2126-destroying-asteroids](https://github.com/amrita2008/leetcode-solution/tree/master/2126-destroying-asteroids) |
+| [3689-maximum-total-subarray-value-i](https://github.com/amrita2008/leetcode-solution/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
 |  |
 | ------- |
