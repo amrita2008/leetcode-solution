@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/amrita2008/leetcode-solution/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrita2008/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1833-maximum-ice-cream-bars](https://github.com/amrita2008/leetcode-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 | [2126-destroying-asteroids](https://github.com/amrita2008/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/amrita2008/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/amrita2008/leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/amrita2008/leetcode-solution/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/amrita2008/leetcode-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/amrita2008/leetcode-solution/tree/master/2126-destroying-asteroids) |
 ## String
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amrita2008/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/amrita2008/leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/amrita2008/leetcode-solution/tree/master/0846-hand-of-straights) |
+| [1833-maximum-ice-cream-bars](https://github.com/amrita2008/leetcode-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/amrita2008/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/amrita2008/leetcode-solution/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
@@ -563,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/amrita2008/leetcode-solution/tree/master/0207-course-schedule) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/amrita2008/leetcode-solution/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
