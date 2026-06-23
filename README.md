@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/amrita2008/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/amrita2008/leetcode-solution/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/amrita2008/leetcode-solution/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/amrita2008/leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/amrita2008/leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amrita2008/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/amrita2008/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amrita2008/leetcode-solution/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/amrita2008/leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
