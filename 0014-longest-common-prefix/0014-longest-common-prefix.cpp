@@ -8,7 +8,9 @@ public:
         int minlength=min(strs1.size(),strs2.size());
         for(int i=0;i<minlength;i++){
             if(strs1[i] != strs2[i]) break;
-            str+=strs1[i];
+            else{
+                str+=strs1[i];
+            }    
         }
         return str;
 
