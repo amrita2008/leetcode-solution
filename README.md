@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/amrita2008/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/amrita2008/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/amrita2008/leetcode-solution/tree/master/0551-student-attendance-record-i) |
+| [0678-valid-parenthesis-string](https://github.com/amrita2008/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/amrita2008/leetcode-solution/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/amrita2008/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/amrita2008/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/amrita2008/leetcode-solution/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/amrita2008/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amrita2008/leetcode-solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/amrita2008/leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrita2008/leetcode-solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/amrita2008/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/amrita2008/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/amrita2008/leetcode-solution/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/amrita2008/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/amrita2008/leetcode-solution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/amrita2008/leetcode-solution/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/amrita2008/leetcode-solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/amrita2008/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/amrita2008/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/amrita2008/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/amrita2008/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/amrita2008/leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amrita2008/leetcode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/amrita2008/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
