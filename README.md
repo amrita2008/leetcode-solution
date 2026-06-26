@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amrita2008/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/amrita2008/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/amrita2008/leetcode-solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/amrita2008/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/amrita2008/leetcode-solution/tree/master/0051-n-queens) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amrita2008/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/amrita2008/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amrita2008/leetcode-solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/amrita2008/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/amrita2008/leetcode-solution/tree/master/0085-maximal-rectangle) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amrita2008/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amrita2008/leetcode-solution/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/amrita2008/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/amrita2008/leetcode-solution/tree/master/0455-assign-cookies) |
