@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/amrita2008/leetcode-solution/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/amrita2008/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/amrita2008/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/amrita2008/leetcode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/amrita2008/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
