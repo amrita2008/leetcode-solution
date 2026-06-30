@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amrita2008/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/amrita2008/leetcode-solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/amrita2008/leetcode-solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/amrita2008/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/amrita2008/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/amrita2008/leetcode-solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/amrita2008/leetcode-solution/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0126-word-ladder-ii) |
+| [0216-combination-sum-iii](https://github.com/amrita2008/leetcode-solution/tree/master/0216-combination-sum-iii) |
 ## Enumeration
 |  |
 | ------- |
