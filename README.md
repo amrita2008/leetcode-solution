@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/amrita2008/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/amrita2008/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amrita2008/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/amrita2008/leetcode-solution/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrita2008/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/amrita2008/leetcode-solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amrita2008/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/amrita2008/leetcode-solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/amrita2008/leetcode-solution/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/amrita2008/leetcode-solution/tree/master/0282-expression-add-operators) |
 | [0840-magic-squares-in-grid](https://github.com/amrita2008/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/amrita2008/leetcode-solution/tree/master/1390-four-divisors) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amrita2008/leetcode-solution/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/amrita2008/leetcode-solution/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/amrita2008/leetcode-solution/tree/master/0282-expression-add-operators) |
 ## Enumeration
 |  |
 | ------- |
