@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/amrita2008/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/amrita2008/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/amrita2008/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amrita2008/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/amrita2008/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amrita2008/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amrita2008/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/amrita2008/leetcode-solution/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/amrita2008/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/amrita2008/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/amrita2008/leetcode-solution/tree/master/0496-next-greater-element-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/amrita2008/leetcode-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amrita2008/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/amrita2008/leetcode-solution/tree/master/0231-power-of-two) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amrita2008/leetcode-solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/amrita2008/leetcode-solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amrita2008/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Shortest Path
 |  |
 | ------- |
