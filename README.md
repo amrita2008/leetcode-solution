@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amrita2008/leetcode-solution/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/amrita2008/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/amrita2008/leetcode-solution/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/amrita2008/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/amrita2008/leetcode-solution/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/amrita2008/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/amrita2008/leetcode-solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/amrita2008/leetcode-solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/amrita2008/leetcode-solution/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/amrita2008/leetcode-solution/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/amrita2008/leetcode-solution/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/amrita2008/leetcode-solution/tree/master/0282-expression-add-operators) |
