@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 | [2126-destroying-asteroids](https://github.com/amrita2008/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/amrita2008/leetcode-solution/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/amrita2008/leetcode-solution/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/amrita2008/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/amrita2008/leetcode-solution/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amrita2008/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -526,12 +529,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/amrita2008/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/amrita2008/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/amrita2008/leetcode-solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/amrita2008/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amrita2008/leetcode-solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bitmask
 |  |
 | ------- |
@@ -664,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amrita2008/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
