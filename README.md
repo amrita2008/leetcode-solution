@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrita2008/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amrita2008/leetcode-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/amrita2008/leetcode-solution/tree/master/1539-kth-missing-positive-number) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/amrita2008/leetcode-solution/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/amrita2008/leetcode-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 | [2126-destroying-asteroids](https://github.com/amrita2008/leetcode-solution/tree/master/2126-destroying-asteroids) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amrita2008/leetcode-solution/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amrita2008/leetcode-solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/amrita2008/leetcode-solution/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/amrita2008/leetcode-solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
 |  |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amrita2008/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/amrita2008/leetcode-solution/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Shortest Path
 |  |
 | ------- |
