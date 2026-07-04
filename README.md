@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amrita2008/leetcode-solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/amrita2008/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/amrita2008/leetcode-solution/tree/master/1020-number-of-enclaves) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amrita2008/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/amrita2008/leetcode-solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/amrita2008/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amrita2008/leetcode-solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amrita2008/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/amrita2008/leetcode-solution/tree/master/3620-network-recovery-pathways) |
 ## Bitmask
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amrita2008/leetcode-solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/amrita2008/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrita2008/leetcode-solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amrita2008/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Iterator
 |  |
 | ------- |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amrita2008/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/amrita2008/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/amrita2008/leetcode-solution/tree/master/1020-number-of-enclaves) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/amrita2008/leetcode-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Topological Sort
 |  |
