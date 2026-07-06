@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/amrita2008/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amrita2008/leetcode-solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/amrita2008/leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/amrita2008/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1390-four-divisors](https://github.com/amrita2008/leetcode-solution/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrita2008/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/amrita2008/leetcode-solution/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/amrita2008/leetcode-solution/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/amrita2008/leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/amrita2008/leetcode-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/amrita2008/leetcode-solution/tree/master/2126-destroying-asteroids) |
 ## String
