@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/amrita2008/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amrita2008/leetcode-solution/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/amrita2008/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/amrita2008/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/amrita2008/leetcode-solution/tree/master/0542-01-matrix) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/amrita2008/leetcode-solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/amrita2008/leetcode-solution/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/amrita2008/leetcode-solution/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/amrita2008/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/amrita2008/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/amrita2008/leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/amrita2008/leetcode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/amrita2008/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/amrita2008/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/amrita2008/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/amrita2008/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/amrita2008/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/amrita2008/leetcode-solution/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/amrita2008/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amrita2008/leetcode-solution/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -881,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amrita2008/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/amrita2008/leetcode-solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
