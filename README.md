@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/amrita2008/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/amrita2008/leetcode-solution/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrita2008/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amrita2008/leetcode-solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amrita2008/leetcode-solution/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/amrita2008/leetcode-solution/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/amrita2008/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amrita2008/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/amrita2008/leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/amrita2008/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrita2008/leetcode-solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amrita2008/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amrita2008/leetcode-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/amrita2008/leetcode-solution/tree/master/3620-network-recovery-pathways) |
@@ -893,4 +896,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/amrita2008/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/amrita2008/leetcode-solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
