@@ -6,8 +6,6 @@ public:
 
     int n = s1.size();
     int m = s2.size();
-
-    // Suffix helper array
     int j = m - 1;
 
     vector<int> suffix(n + 1, m);
