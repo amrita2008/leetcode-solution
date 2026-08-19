@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/amrita2008/leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/amrita2008/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/amrita2008/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/amrita2008/leetcode-solution/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrita2008/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amrita2008/leetcode-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/amrita2008/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amrita2008/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amrita2008/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amrita2008/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amrita2008/leetcode-solution/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amrita2008/leetcode-solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/amrita2008/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/amrita2008/leetcode-solution/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/amrita2008/leetcode-solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amrita2008/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/amrita2008/leetcode-solution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/amrita2008/leetcode-solution/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amrita2008/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/amrita2008/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/amrita2008/leetcode-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/amrita2008/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/amrita2008/leetcode-solution/tree/master/2029-stone-game-ix) |
