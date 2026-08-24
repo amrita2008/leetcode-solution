@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/amrita2008/leetcode-solution/tree/master/1563-stone-game-v) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/amrita2008/leetcode-solution/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/amrita2008/leetcode-solution/tree/master/1833-maximum-ice-cream-bars) |
+| [1872-stone-game-viii](https://github.com/amrita2008/leetcode-solution/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amrita2008/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amrita2008/leetcode-solution/tree/master/2029-stone-game-ix) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amrita2008/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/amrita2008/leetcode-solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/amrita2008/leetcode-solution/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/amrita2008/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/amrita2008/leetcode-solution/tree/master/1927-sum-game) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amrita2008/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/amrita2008/leetcode-solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/amrita2008/leetcode-solution/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amrita2008/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/amrita2008/leetcode-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amrita2008/leetcode-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrita2008/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/amrita2008/leetcode-solution/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amrita2008/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/amrita2008/leetcode-solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -956,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amrita2008/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/amrita2008/leetcode-solution/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/amrita2008/leetcode-solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/amrita2008/leetcode-solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/amrita2008/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -963,12 +968,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amrita2008/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amrita2008/leetcode-solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/amrita2008/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amrita2008/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/amrita2008/leetcode-solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/amrita2008/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
