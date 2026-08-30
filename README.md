@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amrita2008/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amrita2008/leetcode-solution/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amrita2008/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/amrita2008/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amrita2008/leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amrita2008/leetcode-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/amrita2008/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/amrita2008/leetcode-solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/amrita2008/leetcode-solution/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amrita2008/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/amrita2008/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amrita2008/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amrita2008/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
