@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/amrita2008/leetcode-solution/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/amrita2008/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/amrita2008/leetcode-solution/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/amrita2008/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amrita2008/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/amrita2008/leetcode-solution/tree/master/1189-maximum-number-of-balloons) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amrita2008/leetcode-solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/amrita2008/leetcode-solution/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/amrita2008/leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/amrita2008/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrita2008/leetcode-solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
