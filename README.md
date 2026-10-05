@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amrita2008/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/amrita2008/leetcode-solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/amrita2008/leetcode-solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/amrita2008/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0229-majority-element-ii) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/amrita2008/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/amrita2008/leetcode-solution/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/amrita2008/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/amrita2008/leetcode-solution/tree/master/0486-predict-the-winner) |
