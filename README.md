@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amrita2008/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/amrita2008/leetcode-solution/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrita2008/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/amrita2008/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/amrita2008/leetcode-solution/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/amrita2008/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/amrita2008/leetcode-solution/tree/master/0402-remove-k-digits) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/amrita2008/leetcode-solution/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/amrita2008/leetcode-solution/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/amrita2008/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amrita2008/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amrita2008/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amrita2008/leetcode-solution/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrita2008/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/amrita2008/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/amrita2008/leetcode-solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/amrita2008/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amrita2008/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
