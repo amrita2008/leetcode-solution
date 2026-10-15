@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amrita2008/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amrita2008/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/amrita2008/leetcode-solution/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/amrita2008/leetcode-solution/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/amrita2008/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/amrita2008/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/amrita2008/leetcode-solution/tree/master/0135-candy) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amrita2008/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/amrita2008/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/amrita2008/leetcode-solution/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/amrita2008/leetcode-solution/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/amrita2008/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/amrita2008/leetcode-solution/tree/master/0198-house-robber) |
