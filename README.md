@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amrita2008/leetcode-solution/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/amrita2008/leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amrita2008/leetcode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amrita2008/leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/amrita2008/leetcode-solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/amrita2008/leetcode-solution/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/amrita2008/leetcode-solution/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/amrita2008/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amrita2008/leetcode-solution/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amrita2008/leetcode-solution/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/amrita2008/leetcode-solution/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/amrita2008/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
+| [0931-minimum-falling-path-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/amrita2008/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/amrita2008/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/amrita2008/leetcode-solution/tree/master/1260-shift-2d-grid) |
