@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/amrita2008/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amrita2008/leetcode-solution/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/amrita2008/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/amrita2008/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amrita2008/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/amrita2008/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/amrita2008/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/amrita2008/leetcode-solution/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/amrita2008/leetcode-solution/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/amrita2008/leetcode-solution/tree/master/0846-hand-of-straights) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/amrita2008/leetcode-solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/amrita2008/leetcode-solution/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/amrita2008/leetcode-solution/tree/master/0282-expression-add-operators) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amrita2008/leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/amrita2008/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/amrita2008/leetcode-solution/tree/master/0836-rectangle-overlap) |
