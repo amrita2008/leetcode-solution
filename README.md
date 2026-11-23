@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/amrita2008/leetcode-solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/amrita2008/leetcode-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/amrita2008/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amrita2008/leetcode-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/amrita2008/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/amrita2008/leetcode-solution/tree/master/1390-four-divisors) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/amrita2008/leetcode-solution/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/amrita2008/leetcode-solution/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/amrita2008/leetcode-solution/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/amrita2008/leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1406-stone-game-iii) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/amrita2008/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/amrita2008/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amrita2008/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amrita2008/leetcode-solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amrita2008/leetcode-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amrita2008/leetcode-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -881,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amrita2008/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/amrita2008/leetcode-solution/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amrita2008/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/amrita2008/leetcode-solution/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
@@ -1068,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/amrita2008/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amrita2008/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/amrita2008/leetcode-solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bucket Sort
 |  |
 | ------- |
